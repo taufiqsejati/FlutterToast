@@ -13,7 +13,6 @@ buildscript {
 
 plugins {
     id("com.android.library")
-    id("kotlin-android")
 }
 
 rootProject.allprojects {
